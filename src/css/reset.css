@@ -1,0 +1,22 @@
+/* o que é o arquivo de reset? o navegador por padrão o avegador vai coocar alguns estilos por padrão */
+
+*{
+    margin: 0;
+    padding: 0;
+    border: none;
+    outline: none;
+    box-sizing: border-box;    
+}
+
+a{
+    text-decoration: none;
+    color: #ffffff;
+}
+
+ul{
+    list-style: none;
+}
+
+img{
+    max-width: 100%;
+}
